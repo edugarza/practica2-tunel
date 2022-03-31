@@ -1,0 +1,540 @@
+Script started on 2022-03-31 16:24:31+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;eduardo@eduardo-VirtualBox: ~/prpa[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa[00m$ cd prp[K[K[Kpractica2/
+]0;eduardo@eduardo-VirtualBox: ~/prpa/practica2[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa/practica2[00m$ python2[K3 practicatunel.py 
+car 1 direction south created
+car 2 direction north created
+car 3 direction south created
+car 4 direction north created
+car 5 direction north created
+car 1 heading south wants to enter
+car 6 direction south created
+car 7 direction north created
+car 8 direction south created
+car 9 direction north created
+car 7 heading north wants to enter
+car 7 heading north enters the tunnel
+car 10 direction south created
+car 4 heading north wants to enter
+car 4 heading north enters the tunnel
+car 4 heading north leaving the tunnel
+car 4 heading north out of the tunnel
+car 11 direction south created
+car 12 direction north created
+car 2 heading north wants to enter
+car 13 direction south created
+car 14 direction north created
+car 9 heading north wants to enter
+car 13 heading south wants to enter
+car 15 direction south created
+car 5 heading north wants to enter
+car 7 heading north leaving the tunnel
+car 7 heading north out of the tunnel
+car 1 heading south enters the tunnel
+car 13 heading south enters the tunnel
+car 6 heading south wants to enter
+car 6 heading south enters the tunnel
+car 16 direction south created
+car 17 direction south created
+car 18 direction south created
+car 8 heading south wants to enter
+car 8 heading south enters the tunnel
+car 10 heading south wants to enter
+car 10 heading south enters the tunnel
+car 1 heading south leaving the tunnel
+car 1 heading south out of the tunnel
+car 19 direction north created
+car 20 direction north created
+car 3 heading south wants to enter
+car 21 direction south created
+car 22 direction north created
+car 23 direction north created
+car 13 heading south leaving the tunnel
+car 13 heading south out of the tunnel
+car 12 heading north wants to enter
+car 24 direction north created
+car 25 direction south created
+car 6 heading south leaving the tunnel
+car 6 heading south out of the tunnel
+car 21 heading south wants to enter
+car 26 direction north created
+car 14 heading north wants to enter
+car 17 heading south wants to enter
+car 25 heading south wants to enter
+car 23 heading north wants to enter
+car 27 direction north created
+car 11 heading south wants to enter
+car 10 heading south leaving the tunnel
+car 10 heading south out of the tunnel
+car 16 heading south wants to enter
+car 8 heading south leaving the tunnel
+car 8 heading south out of the tunnel
+car 2 heading north enters the tunnel
+car 9 heading north enters the tunnel
+car 5 heading north enters the tunnel
+car 12 heading north enters the tunnel
+car 14 heading north enters the tunnel
+car 23 heading north enters the tunnel
+car 26 heading north wants to enter
+car 26 heading north enters the tunnel
+car 23 heading north leaving the tunnel
+car 23 heading north out of the tunnel
+car 2 heading north leaving the tunnel
+car 2 heading north out of the tunnel
+car 27 heading north wants to enter
+car 24 heading north wants to enter
+car 28 direction south created
+car 22 heading north wants to enter
+car 12 heading north leaving the tunnel
+car 12 heading north out of the tunnel
+car 26 heading north leaving the tunnel
+car 26 heading north out of the tunnel
+car 15 heading south wants to enter
+car 29 direction south created
+car 5 heading north leaving the tunnel
+car 5 heading north out of the tunnel
+car 30 direction north created
+car 31 direction north created
+car 18 heading south wants to enter
+car 14 heading north leaving the tunnel
+car 14 heading north out of the tunnel
+car 9 heading north leaving the tunnel
+car 9 heading north out of the tunnel
+car 3 heading south enters the tunnel
+car 21 heading south enters the tunnel
+car 17 heading south enters the tunnel
+car 11 heading south enters the tunnel
+car 16 heading south enters the tunnel
+car 15 heading south enters the tunnel
+car 25 heading south enters the tunnel
+car 18 heading south enters the tunnel
+car 28 heading south wants to enter
+car 28 heading south enters the tunnel
+car 19 heading north wants to enter
+car 20 heading north wants to enter
+car 18 heading south leaving the tunnel
+car 18 heading south out of the tunnel
+car 31 heading north wants to enter
+car 3 heading south leaving the tunnel
+car 3 heading south out of the tunnel
+car 28 heading south leaving the tunnel
+car 28 heading south out of the tunnel
+car 15 heading south leaving the tunnel
+car 15 heading south out of the tunnel
+car 16 heading south leaving the tunnel
+car 16 heading south out of the tunnel
+car 25 heading south leaving the tunnel
+car 25 heading south out of the tunnel
+car 32 direction north created
+car 33 direction north created
+car 30 heading north wants to enter
+car 34 direction north created
+car 35 direction north created
+car 17 heading south leaving the tunnel
+car 17 heading south out of the tunnel
+car 29 heading south wants to enter
+car 11 heading south leaving the tunnel
+car 11 heading south out of the tunnel
+car 36 direction south created
+car 21 heading south leaving the tunnel
+car 21 heading south out of the tunnel
+car 27 heading north enters the tunnel
+car 24 heading north enters the tunnel
+car 22 heading north enters the tunnel
+car 19 heading north enters the tunnel
+car 20 heading north enters the tunnel
+car 31 heading north enters the tunnel
+car 30 heading north enters the tunnel
+car 27 heading north leaving the tunnel
+car 27 heading north out of the tunnel
+car 31 heading north leaving the tunnel
+car 31 heading north out of the tunnel
+car 37 direction south created
+car 19 heading north leaving the tunnel
+car 19 heading north out of the tunnel
+car 38 direction south created
+car 20 heading north leaving the tunnel
+car 20 heading north out of the tunnel
+car 39 direction north created
+car 40 direction north created
+car 41 direction north created
+car 42 direction north created
+car 43 direction south created
+car 30 heading north leaving the tunnel
+car 30 heading north out of the tunnel
+car 22 heading north leaving the tunnel
+car 22 heading north out of the tunnel
+car 44 direction north created
+car 45 direction north created
+car 46 direction north created
+car 47 direction south created
+car 39 heading north wants to enter
+car 44 heading north wants to enter
+car 38 heading south wants to enter
+car 36 heading south wants to enter
+car 37 heading south wants to enter
+car 48 direction north created
+car 42 heading north wants to enter
+car 24 heading north leaving the tunnel
+car 24 heading north out of the tunnel
+car 29 heading south enters the tunnel
+car 38 heading south enters the tunnel
+car 36 heading south enters the tunnel
+car 37 heading south enters the tunnel
+car 49 direction north created
+car 37 heading south leaving the tunnel
+car 37 heading south out of the tunnel
+car 45 heading north wants to enter
+car 33 heading north wants to enter
+car 32 heading north wants to enter
+car 34 heading north wants to enter
+car 38 heading south leaving the tunnel
+car 38 heading south out of the tunnel
+car 50 direction south created
+car 40 heading north wants to enter
+car 51 direction south created
+car 36 heading south leaving the tunnel
+car 36 heading south out of the tunnel
+car 52 direction south created
+car 29 heading south leaving the tunnel
+car 29 heading south out of the tunnel
+car 39 heading north enters the tunnel
+car 44 heading north enters the tunnel
+car 42 heading north enters the tunnel
+car 45 heading north enters the tunnel
+car 33 heading north enters the tunnel
+car 32 heading north enters the tunnel
+car 34 heading north enters the tunnel
+car 40 heading north enters the tunnel
+car 40 heading north leaving the tunnel
+car 40 heading north out of the tunnel
+car 52 heading south wants to enter
+car 45 heading north leaving the tunnel
+car 45 heading north out of the tunnel
+car 42 heading north leaving the tunnel
+car 42 heading north out of the tunnel
+car 49 heading north wants to enter
+car 50 heading south wants to enter
+car 53 direction south created
+car 35 heading north wants to enter
+car 46 heading north wants to enter
+car 53 heading south wants to enter
+car 43 heading south wants to enter
+car 41 heading north wants to enter
+car 54 direction south created
+car 34 heading north leaving the tunnel
+car 34 heading north out of the tunnel
+car 44 heading north leaving the tunnel
+car 44 heading north out of the tunnel
+car 55 direction south created
+car 56 direction south created
+car 47 heading south wants to enter
+car 39 heading north leaving the tunnel
+car 39 heading north out of the tunnel
+car 54 heading south wants to enter
+car 32 heading north leaving the tunnel
+car 32 heading north out of the tunnel
+car 33 heading north leaving the tunnel
+car 33 heading north out of the tunnel
+car 52 heading south enters the tunnel
+car 50 heading south enters the tunnel
+car 53 heading south enters the tunnel
+car 43 heading south enters the tunnel
+car 47 heading south enters the tunnel
+car 54 heading south enters the tunnel
+car 57 direction north created
+car 52 heading south leaving the tunnel
+car 52 heading south out of the tunnel
+car 58 direction south created
+car 48 heading north wants to enter
+car 59 direction north created
+car 54 heading south leaving the tunnel
+car 54 heading south out of the tunnel
+car 50 heading south leaving the tunnel
+car 50 heading south out of the tunnel
+car 60 direction north created
+car 61 direction south created
+car 47 heading south leaving the tunnel
+car 47 heading south out of the tunnel
+car 51 heading south wants to enter
+car 62 direction south created
+car 53 heading south leaving the tunnel
+car 53 heading south out of the tunnel
+car 43 heading south leaving the tunnel
+car 43 heading south out of the tunnel
+car 49 heading north enters the tunnel
+car 35 heading north enters the tunnel
+car 46 heading north enters the tunnel
+car 41 heading north enters the tunnel
+car 48 heading north enters the tunnel
+car 56 heading south wants to enter
+car 63 direction north created
+car 64 direction north created
+car 49 heading north leaving the tunnel
+car 49 heading north out of the tunnel
+car 65 direction south created
+car 55 heading south wants to enter
+car 66 direction south created
+car 67 direction north created
+car 61 heading south wants to enter
+car 65 heading south wants to enter
+car 67 heading north wants to enter
+car 57 heading north wants to enter
+car 64 heading north wants to enter
+car 63 heading north wants to enter
+car 41 heading north leaving the tunnel
+car 41 heading north out of the tunnel
+car 59 heading north wants to enter
+car 68 direction north created
+car 48 heading north leaving the tunnel
+car 48 heading north out of the tunnel
+car 58 heading south wants to enter
+car 35 heading north leaving the tunnel
+car 35 heading north out of the tunnel
+car 46 heading north leaving the tunnel
+car 46 heading north out of the tunnel
+car 51 heading south enters the tunnel
+car 56 heading south enters the tunnel
+car 55 heading south enters the tunnel
+car 61 heading south enters the tunnel
+car 65 heading south enters the tunnel
+car 58 heading south enters the tunnel
+car 69 direction south created
+car 62 heading south wants to enter
+car 62 heading south enters the tunnel
+car 55 heading south leaving the tunnel
+car 55 heading south out of the tunnel
+car 61 heading south leaving the tunnel
+car 61 heading south out of the tunnel
+car 58 heading south leaving the tunnel
+car 58 heading south out of the tunnel
+car 65 heading south leaving the tunnel
+car 65 heading south out of the tunnel
+car 60 heading north wants to enter
+car 51 heading south leaving the tunnel
+car 51 heading south out of the tunnel
+car 70 direction north created
+car 56 heading south leaving the tunnel
+car 56 heading south out of the tunnel
+car 71 direction south created
+car 72 direction south created
+car 62 heading south leaving the tunnel
+car 62 heading south out of the tunnel
+car 67 heading north enters the tunnel
+car 57 heading north enters the tunnel
+car 64 heading north enters the tunnel
+car 63 heading north enters the tunnel
+car 59 heading north enters the tunnel
+car 60 heading north enters the tunnel
+car 64 heading north leaving the tunnel
+car 64 heading north out of the tunnel
+car 72 heading south wants to enter
+car 60 heading north leaving the tunnel
+car 60 heading north out of the tunnel
+car 66 heading south wants to enter
+car 71 heading south wants to enter
+car 73 direction north created
+car 74 direction north created
+car 67 heading north leaving the tunnel
+car 67 heading north out of the tunnel
+car 75 direction south created
+car 57 heading north leaving the tunnel
+car 57 heading north out of the tunnel
+car 68 heading north wants to enter
+car 76 direction south created
+car 63 heading north leaving the tunnel
+car 63 heading north out of the tunnel
+car 70 heading north wants to enter
+car 59 heading north leaving the tunnel
+car 59 heading north out of the tunnel
+car 72 heading south enters the tunnel
+car 66 heading south enters the tunnel
+car 71 heading south enters the tunnel
+car 69 heading south wants to enter
+car 69 heading south enters the tunnel
+car 77 direction south created
+car 74 heading north wants to enter
+car 78 direction north created
+car 66 heading south leaving the tunnel
+car 66 heading south out of the tunnel
+car 72 heading south leaving the tunnel
+car 72 heading south out of the tunnel
+car 77 heading south wants to enter
+car 76 heading south wants to enter
+car 69 heading south leaving the tunnel
+car 69 heading south out of the tunnel
+car 79 direction north created
+car 80 direction south created
+car 71 heading south leaving the tunnel
+car 71 heading south out of the tunnel
+car 68 heading north enters the tunnel
+car 70 heading north enters the tunnel
+car 74 heading north enters the tunnel
+car 81 direction north created
+car 82 direction south created
+car 79 heading north wants to enter
+car 79 heading north enters the tunnel
+car 83 direction north created
+car 70 heading north leaving the tunnel
+car 70 heading north out of the tunnel
+car 75 heading south wants to enter
+car 82 heading south wants to enter
+car 84 direction north created
+car 78 heading north wants to enter
+car 73 heading north wants to enter
+car 85 direction north created
+car 86 direction north created
+car 87 direction south created
+car 68 heading north leaving the tunnel
+car 68 heading north out of the tunnel
+car 79 heading north leaving the tunnel
+car 79 heading north out of the tunnel
+car 80 heading south wants to enter
+car 88 direction south created
+car 85 heading north wants to enter
+car 74 heading north leaving the tunnel
+car 74 heading north out of the tunnel
+car 77 heading south enters the tunnel
+car 76 heading south enters the tunnel
+car 75 heading south enters the tunnel
+car 82 heading south enters the tunnel
+car 80 heading south enters the tunnel
+car 80 heading south leaving the tunnel
+car 80 heading south out of the tunnel
+car 81 heading north wants to enter
+car 89 direction north created
+car 84 heading north wants to enter
+car 75 heading south leaving the tunnel
+car 75 heading south out of the tunnel
+car 90 direction north created
+car 91 direction south created
+car 76 heading south leaving the tunnel
+car 76 heading south out of the tunnel
+car 83 heading north wants to enter
+car 86 heading north wants to enter
+car 92 direction south created
+car 93 direction north created
+car 87 heading south wants to enter
+car 89 heading north wants to enter
+car 88 heading south wants to enter
+car 82 heading south leaving the tunnel
+car 82 heading south out of the tunnel
+car 77 heading south leaving the tunnel
+car 77 heading south out of the tunnel
+car 78 heading north enters the tunnel
+car 73 heading north enters the tunnel
+car 85 heading north enters the tunnel
+car 81 heading north enters the tunnel
+car 84 heading north enters the tunnel
+car 83 heading north enters the tunnel
+car 86 heading north enters the tunnel
+car 89 heading north enters the tunnel
+car 78 heading north leaving the tunnel
+car 78 heading north out of the tunnel
+car 86 heading north leaving the tunnel
+car 86 heading north out of the tunnel
+car 94 direction north created
+car 95 direction north created
+car 93 heading north wants to enter
+car 96 direction north created
+car 85 heading north leaving the tunnel
+car 85 heading north out of the tunnel
+car 81 heading north leaving the tunnel
+car 81 heading north out of the tunnel
+car 73 heading north leaving the tunnel
+car 73 heading north out of the tunnel
+car 90 heading north wants to enter
+car 97 direction south created
+car 84 heading north leaving the tunnel
+car 84 heading north out of the tunnel
+car 98 direction north created
+car 99 direction north created
+car 89 heading north leaving the tunnel
+car 89 heading north out of the tunnel
+car 83 heading north leaving the tunnel
+car 83 heading north out of the tunnel
+car 87 heading south enters the tunnel
+car 88 heading south enters the tunnel
+car 99 heading north wants to enter
+car 92 heading south wants to enter
+car 92 heading south enters the tunnel
+car 100 direction south created
+car 88 heading south leaving the tunnel
+car 88 heading south out of the tunnel
+car 100 heading south wants to enter
+car 91 heading south wants to enter
+car 94 heading north wants to enter
+car 87 heading south leaving the tunnel
+car 87 heading south out of the tunnel
+car 92 heading south leaving the tunnel
+car 92 heading south out of the tunnel
+car 93 heading north enters the tunnel
+car 90 heading north enters the tunnel
+car 99 heading north enters the tunnel
+car 94 heading north enters the tunnel
+car 96 heading north wants to enter
+car 96 heading north enters the tunnel
+car 95 heading north wants to enter
+car 95 heading north enters the tunnel
+car 93 heading north leaving the tunnel
+car 93 heading north out of the tunnel
+car 95 heading north leaving the tunnel
+car 95 heading north out of the tunnel
+car 98 heading north wants to enter
+car 99 heading north leaving the tunnel
+car 99 heading north out of the tunnel
+car 97 heading south wants to enter
+car 94 heading north leaving the tunnel
+car 94 heading north out of the tunnel
+car 90 heading north leaving the tunnel
+car 90 heading north out of the tunnel
+car 96 heading north leaving the tunnel
+car 96 heading north out of the tunnel
+car 91 heading south enters the tunnel
+car 97 heading south enters the tunnel
+car 100 heading south enters the tunnel
+car 91 heading south leaving the tunnel
+car 91 heading south out of the tunnel
+car 97 heading south leaving the tunnel
+car 97 heading south out of the tunnel
+car 100 heading south leaving the tunnel
+car 98 heading north enters the tunnel
+car 100 heading south out of the tunnel
+car 98 heading north leaving the tunnel
+car 98 heading north out of the tunnel
+]0;eduardo@eduardo-VirtualBox: ~/prpa/practica2[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa/practica2[00m$ cd ..
+]0;eduardo@eduardo-VirtualBox: ~/prpa[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa[00m$ gity [K[K[Kt clone https://github.com/edugarza/practica2-tunel.git
+Cloning into 'practica2-tunel'...
+remote: Enumerating objects: 5, done.[K
+remote: Counting objects:  20% (1/5)[Kremote: Counting objects:  40% (2/5)[Kremote: Counting objects:  60% (3/5)[Kremote: Counting objects:  80% (4/5)[Kremote: Counting objects: 100% (5/5)[Kremote: Counting objects: 100% (5/5), done.[K
+remote: Compressing objects:  25% (1/4)[Kremote: Compressing objects:  50% (2/4)[Kremote: Compressing objects:  75% (3/4)[Kremote: Compressing objects: 100% (4/4)[Kremote: Compressing objects: 100% (4/4), done.[K
+remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  20% (1/5)Unpacking objects:  40% (2/5)Unpacking objects:  60% (3/5)Unpacking objects:  80% (4/5)Unpacking objects: 100% (5/5)Unpacking objects: 100% (5/5), 13.44 KiB | 2.24 MiB/s, done.
+]0;eduardo@eduardo-VirtualBox: ~/prpa[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa[00m$ cd practica2
+]0;eduardo@eduardo-VirtualBox: ~/prpa/practica2[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa/practica2[00m$ cd ..
+]0;eduardo@eduardo-VirtualBox: ~/prpa[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa[00m$ cp [K[K[Kcd practica2-tunel/
+]0;eduardo@eduardo-VirtualBox: ~/prpa/practica2-tunel[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa/practica2-tunel[00m$ git add.[K .
+]0;eduardo@eduardo-VirtualBox: ~/prpa/practica2-tunel[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa/practica2-tunel[00m$ git push[K[K[K[Kcommit .[K-m ""P"a"r"c"[1P"[1P"r"a"[1P"[1P"[1P"r"a"c"t"i"c"a" "t"u"n"e" [A]0;eduardo@eduardo-VirtualBox: ~/prpa/practica2-tunel[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa/practica2-tunel[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl"
+[master 827f227] Practica tunel
+ 2 files changed, 89 insertions(+)
+ create mode 100644 practicatunel.py
+ create mode 100644 tunel.pdf
+]0;eduardo@eduardo-VirtualBox: ~/prpa/practica2-tunel[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa/practica2-tunel[00m$ git push
+Username for 'https://github.com': edugarza
+Password for 'https://edugarza@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/edugarza/practica2-tunel.git/'
+]0;eduardo@eduardo-VirtualBox: ~/prpa/practica2-tunel[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa/practica2-tunel[00m$ git push origin master
+Username for 'https://github.com': edugarza
+Password for 'https://edugarza@github.com': 
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 532.50 KiB | 10.65 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/edugarza/practica2-tunel.git
+   ec3d22a..827f227  master -> master
+]0;eduardo@eduardo-VirtualBox: ~/prpa/practica2-tunel[01;32meduardo@eduardo-VirtualBox[00m:[01;34m~/prpa/practica2-tunel[00m$ exit
+exit
+
+Script done on 2022-03-31 16:32:24+02:00 [COMMAND_EXIT_CODE="0"]
